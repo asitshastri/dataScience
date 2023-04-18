@@ -1,0 +1,149 @@
+2023-03-18 14:39:16,566 root INFO this is an info
+2023-03-18 14:39:16,567 root CRITICAL this is critical
+2023-03-18 14:39:16,567 root WARNING this is warning
+2023-03-18 14:40:20,016 root INFO this is an info
+2023-03-18 14:40:20,017 root CRITICAL this is critical
+2023-03-18 14:40:20,017 root WARNING this is warning
+2023-03-18 14:58:04,672 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 14:58:04,673 root INFO this is the value i am logging shastri
+2023-03-18 14:58:55,260 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 14:58:55,261 root INFO this is the value i am logging 11
+2023-03-18 14:58:55,261 root INFO this is the value i am logging 3
+2023-03-18 14:58:55,261 root INFO this is the value i am logging 5
+2023-03-18 14:58:55,262 root INFO this is the value i am logging 7
+2023-03-18 14:58:55,262 root INFO this is the value i am logging [2, 4, 6]
+2023-03-18 14:58:55,262 root INFO this is the value i am logging asit
+2023-03-18 14:58:55,262 root INFO this is the value i am logging shastri
+2023-03-18 14:59:31,448 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 14:59:31,449 root INFO this is the value i am logging 11
+2023-03-18 14:59:31,449 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 14:59:31,449 root INFO this is the value i am logging 3
+2023-03-18 14:59:31,449 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 14:59:31,450 root INFO this is the value i am logging 5
+2023-03-18 14:59:31,450 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 14:59:31,450 root INFO this is the value i am logging 7
+2023-03-18 14:59:31,450 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 14:59:31,450 root INFO this is the value i am logging [2, 4, 6]
+2023-03-18 14:59:31,450 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 14:59:31,450 root INFO this is the value i am logging asit
+2023-03-18 14:59:31,451 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 14:59:31,451 root INFO this is the value i am logging shastri
+2023-03-18 15:03:18,447 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:03:18,448 root INFO this is the value i am logging 11
+2023-03-18 15:03:18,448 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:03:18,448 root INFO this is the value i am logging 3
+2023-03-18 15:03:18,449 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:03:18,449 root INFO this is the value i am logging 5
+2023-03-18 15:03:18,449 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:03:18,450 root INFO this is the value i am logging 7
+2023-03-18 15:03:18,450 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:03:18,450 root INFO this is the value i am logging [2, 4, 6]
+2023-03-18 15:03:56,519 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:03:56,520 root INFO this is the value i am logging 11
+2023-03-18 15:03:56,521 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:03:56,521 root INFO this is the value i am logging 3
+2023-03-18 15:03:56,521 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:03:56,521 root INFO this is the value i am logging 5
+2023-03-18 15:03:56,521 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:03:56,521 root INFO this is the value i am logging 7
+2023-03-18 15:03:56,522 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:03:56,522 root INFO this is the value i am logging [2, 4, 6]
+2023-03-18 15:05:11,609 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:05:11,609 root INFO this is the value i am logging 11
+2023-03-18 15:05:11,609 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:05:11,609 root INFO this is the value i am logging 3
+2023-03-18 15:05:11,609 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:05:11,609 root INFO this is the value i am logging 5
+2023-03-18 15:05:11,609 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:05:11,623 root INFO this is the value i am logging 7
+2023-03-18 15:05:11,623 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:05:11,623 root INFO this is the value i am logging [2, 4, 6]
+2023-03-18 15:07:51,407 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:07:51,407 root INFO this is the value i am logging 11
+2023-03-18 15:07:51,408 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:07:51,408 root INFO this is the value i am logging 3
+2023-03-18 15:07:51,408 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:07:51,408 root INFO this is the value i am logging 5
+2023-03-18 15:07:51,408 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:07:51,408 root INFO this is the value i am logging 7
+2023-03-18 15:07:51,408 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:07:51,409 root INFO this is the value i am logging [2, 4, 6]
+2023-03-18 15:10:00,497 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:10:00,498 root INFO this is the value i am logging 11
+2023-03-18 15:10:00,498 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:10:00,499 root INFO this is the value i am logging 3
+2023-03-18 15:10:00,499 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:10:00,499 root INFO this is the value i am logging 5
+2023-03-18 15:10:00,499 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:10:00,499 root INFO this is the value i am logging 7
+2023-03-18 15:10:00,499 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:10:00,499 root INFO this is the value i am logging [2, 4, 6]
+2023-03-18 15:10:21,419 root INFO this is an info
+2023-03-18 15:10:21,419 root CRITICAL this is critical
+2023-03-18 15:10:21,420 root WARNING this is warning
+2023-03-18 15:10:22,356 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:10:22,356 root INFO this is the value i am logging 11
+2023-03-18 15:10:22,357 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:10:22,357 root INFO this is the value i am logging 3
+2023-03-18 15:10:22,357 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:10:22,357 root INFO this is the value i am logging 5
+2023-03-18 15:10:22,357 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:10:22,357 root INFO this is the value i am logging 7
+2023-03-18 15:10:22,357 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:10:22,357 root INFO this is the value i am logging [2, 4, 6]
+2023-03-18 15:13:01,416 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:01,416 root INFO this is the value i am logging 11
+2023-03-18 15:13:01,417 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:01,417 root INFO this is the value i am logging 3
+2023-03-18 15:13:01,417 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:01,417 root INFO this is the value i am logging 5
+2023-03-18 15:13:01,417 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:01,417 root INFO this is the value i am logging 7
+2023-03-18 15:13:01,417 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:01,417 root INFO this is the value i am logging [2, 4, 6]
+2023-03-18 15:13:01,418 root INFO logging my j 2 and i is [2, 4, 6]
+2023-03-18 15:13:01,418 root INFO logging my j 4 and i is [2, 4, 6]
+2023-03-18 15:13:01,418 root INFO logging my j 6 and i is [2, 4, 6]
+2023-03-18 15:13:01,418 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:01,418 root INFO this is the value i am logging asit
+2023-03-18 15:13:01,418 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:01,418 root INFO this is the value i am logging shastri
+2023-03-18 15:13:01,419 root INFO this is my final result with all int:-[11, 3, 5, 7, 2, 4, 6] and with all string:-['asit', 'shastri']
+2023-03-18 15:13:35,142 root INFO Program starting
+2023-03-18 15:13:35,142 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:35,143 root INFO this is the value i am logging 11
+2023-03-18 15:13:35,143 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:35,143 root INFO this is the value i am logging 3
+2023-03-18 15:13:35,143 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:35,144 root INFO this is the value i am logging 5
+2023-03-18 15:13:35,144 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:35,144 root INFO this is the value i am logging 7
+2023-03-18 15:13:35,144 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:35,144 root INFO this is the value i am logging [2, 4, 6]
+2023-03-18 15:13:35,144 root INFO logging my j 2 and i is [2, 4, 6]
+2023-03-18 15:13:35,145 root INFO logging my j 4 and i is [2, 4, 6]
+2023-03-18 15:13:35,145 root INFO logging my j 6 and i is [2, 4, 6]
+2023-03-18 15:13:35,145 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:35,145 root INFO this is the value i am logging asit
+2023-03-18 15:13:35,145 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:35,145 root INFO this is the value i am logging shastri
+2023-03-18 15:13:35,146 root INFO this is my final result with all int:-[11, 3, 5, 7, 2, 4, 6] and with all string:-['asit', 'shastri']
+2023-03-18 15:13:59,526 root INFO ---------------------------------------------------------------------------------------------
+2023-03-18 15:13:59,527 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:59,527 root INFO this is the value i am logging 11
+2023-03-18 15:13:59,527 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:59,528 root INFO this is the value i am logging 3
+2023-03-18 15:13:59,528 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:59,528 root INFO this is the value i am logging 5
+2023-03-18 15:13:59,528 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:59,528 root INFO this is the value i am logging 7
+2023-03-18 15:13:59,529 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:59,529 root INFO this is the value i am logging [2, 4, 6]
+2023-03-18 15:13:59,529 root INFO logging my j 2 and i is [2, 4, 6]
+2023-03-18 15:13:59,529 root INFO logging my j 4 and i is [2, 4, 6]
+2023-03-18 15:13:59,529 root INFO logging my j 6 and i is [2, 4, 6]
+2023-03-18 15:13:59,529 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:59,529 root INFO this is the value i am logging asit
+2023-03-18 15:13:59,530 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-03-18 15:13:59,530 root INFO this is the value i am logging shastri
+2023-03-18 15:13:59,530 root INFO this is my final result with all int:-[11, 3, 5, 7, 2, 4, 6] and with all string:-['asit', 'shastri']

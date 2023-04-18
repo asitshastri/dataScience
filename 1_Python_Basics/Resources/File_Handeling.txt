@@ -1,0 +1,1 @@
+This file is opened on write mode due to which the content is overwrittenthis is the content added at the end of the line because the file is onpened in append mode('a')
