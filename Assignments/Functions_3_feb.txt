@@ -1,0 +1,96 @@
+Q1. Which keyword is used to create a function? Create a function to return a list of odd numbers in the
+range of 1 to 25.
+syntax: def <function_name>():
+
+#function that creates a list of odd no. in range 1 t 25
+def odd():
+    for i in range (1,26):
+        if i%2!=0:
+            print(i)
+
+
+Q2. Why *args and **kwargs is used in some functions? Create a function each for *args and **kwargs to
+demonstrate their use.
+(*args)- It is used to create a function that can take any no. of arguments.
+ex:-
+def fun8(*args): 
+    l = []
+    for i in args:
+        if type(i) == list :
+            l.append(i)
+            
+    return l
+
+fun8(1,2,3,[1,2,3,4,4] , (1,2,3,4,4) , "sudh" , [4,5,6] , [6,7,8])
+op: [[1, 2, 3, 4, 4], [4, 5, 6], [6, 7, 8]]
+
+(**kwargs): double astrix means that the function will take any no. of arguments but only as key and value pair
+ex:
+#function that returns key its value whiich is list
+def fun10(**kwargs):
+    for i in kwargs.keys():
+        if type(kwargs[i] ) == list :
+            return i , kwargs[i]
+print(fun10(a = 34 , b = 23 , c = [1,2,3,4] , d = ("sudh" , "pwskills")))
+op:('c', [1, 2, 3, 4])
+
+
+
+Q3. What is an iterator in python? Name the method used to initialise the iterator object and the method
+used for iteration. Use these methods to print the first five elements of the given list [2, 4, 6, 8, 10, 12, 14, 16,
+18, 20].
+An iterator is an object that contains a countable number of values
+mytuple = ("apple", "banana", "cherry")
+myit = iter(mytuple)
+print(next(myit))
+print(next(myit))
+print(next(myit))
+print(next(myit))
+print(next(myit))
+print(next(myit))
+
+
+
+Q4. What is a generator function in python? Why yield keyword is used? Give an example of a generator
+function.
+
+A python generator function allows us to declare a function that behaves like an iterator, providing a fster and easier way to create an oterator.
+What is the advantage of Generating function?
+As in ML we work on millions of data. Function which gives the filnal list as an outcome will only not communicate unless it prepares the whole list which will take a long time cuz of billions of enteries and thus creating a bottleneck.
+
+So a function which shows only when we try to iterate over it (like range) will be helpfull. as it does not remember the whole data it only remembers the last data it generated.
+
+Usning "yield" to make a generator function:-
+def fibo_gen(n):
+    a,b=0,1
+    for i in range(n):
+        yield a #passes the value of a without storing it 
+        a,b=b,a+b
+
+
+Q5. Create a generator function for prime numbers less than 1000. Use the next() method to print the first 20 prime numbers
+def isPrime(n):
+    if (n<=1):
+        return False
+    elif(n==2):
+        return False
+    elif n>=2:
+        i=3
+        if n%2==0:
+            return False
+        else:
+            while i<= n**0.5:
+                if n%i==0:
+                    return False
+                i=i+2
+            return True
+def genPrime():
+    n =1
+    while True:
+        n+=1
+        if isPrime(n):
+            yield n
+generator = genPrime()
+
+for i in range(20):
+    print(next(generator))
