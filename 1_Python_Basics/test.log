@@ -147,3 +147,25 @@
 2023-03-18 15:13:59,530 root INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
 2023-03-18 15:13:59,530 root INFO this is the value i am logging shastri
 2023-03-18 15:13:59,530 root INFO this is my final result with all int:-[11, 3, 5, 7, 2, 4, 6] and with all string:-['asit', 'shastri']
+2023-04-23 22:09:10,614 INFO this is an info
+2023-04-23 22:09:10,616 CRITICAL this is critical
+2023-04-23 22:09:10,616 WARNING this is warning
+2023-04-23 22:09:11,547 INFO ---------------------------------------------------------------------------------------------
+2023-04-23 22:09:11,548 INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-04-23 22:09:11,548 INFO this is the value i am logging 11
+2023-04-23 22:09:11,549 INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-04-23 22:09:11,549 INFO this is the value i am logging 3
+2023-04-23 22:09:11,549 INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-04-23 22:09:11,549 INFO this is the value i am logging 5
+2023-04-23 22:09:11,549 INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-04-23 22:09:11,549 INFO this is the value i am logging 7
+2023-04-23 22:09:11,550 INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-04-23 22:09:11,550 INFO this is the value i am logging [2, 4, 6]
+2023-04-23 22:09:11,550 INFO logging my j 2 and i is [2, 4, 6]
+2023-04-23 22:09:11,550 INFO logging my j 4 and i is [2, 4, 6]
+2023-04-23 22:09:11,550 INFO logging my j 6 and i is [2, 4, 6]
+2023-04-23 22:09:11,550 INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-04-23 22:09:11,551 INFO this is the value i am logging asit
+2023-04-23 22:09:11,551 INFO this is the start of my first for loop [11, 3, 5, 7, [2, 4, 6], 'asit', 'shastri']
+2023-04-23 22:09:11,551 INFO this is the value i am logging shastri
+2023-04-23 22:09:11,551 INFO this is my final result with all int:-[11, 3, 5, 7, 2, 4, 6] and with all string:-['asit', 'shastri']
