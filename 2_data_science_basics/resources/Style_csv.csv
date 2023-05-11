@@ -1,0 +1,6 @@
+Style,Or
+'solid' (default),'-'
+'dotted',':'
+'dashed','--'
+'dashdot','-.'
+'None','' or ' '

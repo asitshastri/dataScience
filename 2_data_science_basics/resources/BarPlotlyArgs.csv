@@ -1,0 +1,5 @@
+Name,Description
+data_frame,"This argument needs to be passed for column names (and not keyword names) to be used. Array-like and dict are transformed internally to a pandas DataFrame. Optional: if missing, a DataFrame gets constructed under the hood using the other arguments."
+x,"Either a name of a column in data_frame, or a pandas Series or array_like object. Values from this column or array_like are used to position marks along the x axis in cartesian coordinates. Either x or y can optionally be a list of column references or array_likes, in which case the data will be treated as if it were ‘wide’ rather than ‘long’."
+y,"Either a name of a column in data_frame, or a pandas Series or array_like object. Values from this column or array_like are used to position marks along the y axis in cartesian coordinates. Either x or y can optionally be a list of column references or array_likes, in which case the data will be treated as if it were ‘wide’ rather than ‘long’."
+color,"Either a name of a column in data_frame, or a pandas Series or array_like object. Values from this column or array_like are used to assign color to marks."
