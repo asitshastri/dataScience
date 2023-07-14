@@ -1,0 +1,5 @@
+{
+    "notebook.cellToolbarVisibility": "hover",
+    "notebook.compactView": false,
+    "notebook.cellFocusIndicator": "border"
+}
